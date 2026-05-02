@@ -131,6 +131,16 @@ To enable all plugins: set `THIRDCLAW_PLUGIN_PROFILE=upstream-default` at deploy
 
 ---
 
+## How This Was Made
+
+This audit was powered by **DeepSeek V4 Pro** via Codex CLI, running **10 parallel AI agents** reading every plugin manifest, package.json, and source file simultaneously. Then again with **10 more agents** for detailed disable-safety analysis. 
+
+**19 million tokens. $1.27 in API costs.** Worth every cent.
+
+<img src="https://drive.google.com/uc?export=view&id=1CPAelBHNJ46flxid5ZkZqkNDL4yCnMyZ" alt="DeepSeek V4 Pro usage statistics" width="100%" />
+
+---
+
 ## License
 
 This audit is provided as reference documentation. The original OpenClaw source code is © the OpenClaw project and its contributors. This repo contains only derived analysis and documentation.
