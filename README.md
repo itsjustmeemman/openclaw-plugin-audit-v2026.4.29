@@ -2,6 +2,8 @@
 
 **Every bundled plugin. What it does. When it loads. Whether you can disable it. What breaks if you do.**
 
+<img src="https://drive.google.com/uc?export=view&id=1nbrMnHupdSQ4sZEcTJVSUXHnwbeGP3O-" alt="OpenClaw Plugin Audit" width="100%" />
+
 ---
 
 ## Why This Exists
