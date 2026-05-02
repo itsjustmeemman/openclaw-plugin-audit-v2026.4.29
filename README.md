@@ -133,7 +133,7 @@ To enable all plugins: set `THIRDCLAW_PLUGIN_PROFILE=upstream-default` at deploy
 
 ## How This Was Made
 
-This audit was powered by **DeepSeek V4 Pro** via Codex CLI, running **10 parallel AI agents** reading every plugin manifest, package.json, and source file simultaneously. Then again with **10 more agents** for detailed disable-safety analysis. 
+This audit was powered by **DeepSeek V4 Pro** via Opencode CLI, running **10 parallel AI agents** reading every plugin manifest, package.json, and source file simultaneously. Then again with **10 more agents** for detailed disable-safety analysis. 
 
 **19 million tokens. $1.27 in API costs.** Worth every cent.
 
